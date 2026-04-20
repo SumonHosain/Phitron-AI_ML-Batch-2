@@ -1,0 +1,3 @@
+ Total number of words: [2, 3, 3]
+ Total number of lines: 3
+ Total number of charecter:31

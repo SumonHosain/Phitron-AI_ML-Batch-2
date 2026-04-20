@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large files (optional but recommended)
+*.zip
+*.pkl
+*.h5
+*.model
+
+venv/
+.venv/
+Lib/
+__pycache__/
+.ipynb_checkpoints/
+
+*.mp4
+*.mkv
+*.mp3
+*.zip
